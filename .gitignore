@@ -1,1 +1,4 @@
 node_modules
+package-lock.json
+dist1/main.js
+dist2/main.js
